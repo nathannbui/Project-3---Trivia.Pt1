@@ -2,7 +2,7 @@
 
 Submitted by: **Nathan Bui**
 
-A trivia app is a iOS app/game that challenges your knowledge across different topics using a fun question-and-answer format. It presents you with a question and several possible answers, letting you choose the one you think is right. As you progress, the app tracks your score and shows how many questions you got correct once the quiz is over.
+This weeks project is focusing on making a trivia app. It is a iOS app/game that challenges your knowledge across different topics using a fun question-and-answer format. It presents you with a question and several possible answers, letting you choose the one you think is right. As you progress, the app tracks your score and shows how many questions you got correct once the quiz is over.
 
 Time spent: **3.5** hours spent in total
 
@@ -29,7 +29,13 @@ The following **stretch** feature is implemented:
 - [x] A user should be able to restart the game after they've finished answering all questions
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/aa9df964d3e34a1d89416fc4f2ea40de">
+    </a>
+    <a href="https://www.loom.com/share/aa9df964d3e34a1d89416fc4f2ea40de">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aa9df964d3e34a1d89416fc4f2ea40de-7431664c600914e6-full-play.gif">
+    </a>
+  </div>
 
 ## License
 
